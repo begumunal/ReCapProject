@@ -18,3 +18,9 @@ C:\Users\BEGÜM\source\repos\ReCapProject\Consoles\obj\Debug\netcoreapp3.1\Conso
 C:\Users\BEGÜM\source\repos\ReCapProject\Consoles\obj\Debug\netcoreapp3.1\Consoles.dll
 C:\Users\BEGÜM\source\repos\ReCapProject\Consoles\obj\Debug\netcoreapp3.1\Consoles.pdb
 C:\Users\BEGÜM\source\repos\ReCapProject\Consoles\obj\Debug\netcoreapp3.1\Consoles.genruntimeconfig.cache
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\Consoles\obj\Debug\netcoreapp3.1\Consoles.csprojAssemblyReference.cache
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\Consoles\obj\Debug\netcoreapp3.1\Consoles.AssemblyInfoInputs.cache
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\Consoles\obj\Debug\netcoreapp3.1\Consoles.AssemblyInfo.cs
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\Consoles\obj\Debug\netcoreapp3.1\Consoles.csproj.CoreCompileInputs.cache
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\Consoles\obj\Debug\netcoreapp3.1\Consoles.dll
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\Consoles\obj\Debug\netcoreapp3.1\Consoles.pdb

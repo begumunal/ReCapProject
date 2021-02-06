@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Consoles\\Consoles.csproj": {}
+    "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Consoles\\Consoles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Business\\Business.csproj": {
+    "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\BEGÜM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Business\\obj\\",
+        "outputPath": "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BEGÜM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Entities\\Entities.csproj"
+              "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Consoles\\Consoles.csproj": {
+    "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Consoles\\Consoles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Consoles\\Consoles.csproj",
+        "projectUniqueName": "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Consoles\\Consoles.csproj",
         "projectName": "Consoles",
-        "projectPath": "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Consoles\\Consoles.csproj",
+        "projectPath": "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Consoles\\Consoles.csproj",
         "packagesPath": "C:\\Users\\BEGÜM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Consoles\\obj\\",
+        "outputPath": "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Consoles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BEGÜM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Business\\Business.csproj"
+              "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Business\\Business.csproj"
               }
             }
           }
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\BEGÜM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BEGÜM\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -145,8 +145,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Entities\\Entities.csproj"
+              "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -160,6 +160,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.11, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -181,14 +185,14 @@
         }
       }
     },
-    "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\BEGÜM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BEGÜM\\source\\repos\\ReCapProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\BEGÜM\\OneDrive\\Masaüstü\\ReCapProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\BEGÜM\\AppData\\Roaming\\NuGet\\NuGet.Config",

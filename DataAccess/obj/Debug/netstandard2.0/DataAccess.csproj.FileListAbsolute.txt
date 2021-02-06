@@ -10,3 +10,15 @@ C:\Users\BEGÜM\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\Da
 C:\Users\BEGÜM\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 C:\Users\BEGÜM\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 C:\Users\BEGÜM\source\repos\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+C:\Users\BEGÜM\OneDrive\Masaüstü\ReCapProject\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
